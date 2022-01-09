@@ -1,0 +1,17 @@
+[
+  {
+    "id": "driver-1",
+    "name": "Petr",
+    "inTruck": false
+  },
+  {
+    "id": "driver-2",
+    "name": "Askar",
+    "inTruck": false
+  },
+  {
+    "id": "driver-3",
+    "name": "Uson",
+    "inTruck": false
+  }
+]
